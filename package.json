@@ -1,0 +1,19 @@
+{
+  "name": "school-management",
+  "version": "1.0.0",
+  "description": "Backend project in Node.js for School management system.",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vijit Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "json": "^11.0.0",
+    "localhost": "^0.4.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.0"
+  }
+}
